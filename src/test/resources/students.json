@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Петров",
+    "age": 30,
+    "skills": ["Java", "SQL"],
+    "address": {
+      "city": "Москва",
+      "street": "Ленина"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Анна Сидорова",
+    "age": 25,
+    "skills": ["Python", "JavaScript"],
+    "address": null
+  }
+]
